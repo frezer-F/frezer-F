@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @frezer-F
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in web application development and Mobil app development 
+- 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on website development 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me (ig) @anonmask2
+
 - ⚡ Fun fact: im powerful lazy 
 
 <!---
